@@ -19,3 +19,46 @@
     padding: 7px 20px;
     cursor: pointer;
 }
+.watchc, .bagc, .shoesc {
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.watchc{
+    background-image: linear-gradient(to right, #d68b00 0%, #ffa600 100%);
+}
+.bagc {
+    background-image: linear-gradient(to left, #ff589b 0%, #ce0555 100%);
+}
+.shoesc {
+    background-image: linear-gradient(to left, #3902ff 0%,  #2d07b6 100%);
+}
+.categories h1 {
+    color: white;
+}
+.categories img {
+    width: 100px;
+}
+
+.card {
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 10px;
+}
+.card-footer {
+    background-color: whitesmoke;
+    border-top: none;
+}
+#contactus {
+    height: 300px;
+ 
+
+}
+#contactus h6 {
+    color: gray;
+}
+.form-control {
+    margin-bottom: 10px;
+}
+footer {
+    text-align: center;
+}
